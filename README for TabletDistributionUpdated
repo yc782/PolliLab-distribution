@@ -1,0 +1,3 @@
+In the updated python program (file name: TabletDistributionUpdated102126.py), same actions as in the "TabletDistributionFinal.py" are performed: Import csv data file obtained from ImageJ image processing and divides
+the tablet into 16 equal radial sectors by default. The program produces an excel file that summazies particle count CV, particle area-sum CV (CVcoverage), mean particle area, mean particle diameter and standard deviatation of particle
+diameter. Particle area and diameter distribution and Log-related statistics are also obtained but these are less relevant parameters and will not be used to assess distributional homogeneity. 
